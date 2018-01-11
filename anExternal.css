@@ -1,0 +1,58 @@
+.headers {
+    text-align: center;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+h1 {
+    color: coral;
+}
+
+h3 {
+    color: limegreen;
+}
+
+#first {
+    font-family: "Trebuchet MS", Helevetica, sans-serif;
+    background-color: orchid;
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+    overflow: auto;
+}
+
+#second {
+    font-family: Georgia, serif;
+    border-color: mediumturquoise;
+    border-style: dashed;
+    padding: 20px;
+    margin: auto;
+    overflow: auto;
+}
+
+#third {
+    margin: auto;
+    width: 50%;
+}
+
+iframe {
+    border: 5px;
+    border-color: lightskyblue
+}
+
+.img_right {
+    height: 150px;
+    float: right;
+}
+ 
+.img_left {
+    height: 150px;
+    float: left;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+
