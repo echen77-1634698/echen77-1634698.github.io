@@ -1,13 +1,29 @@
-.headers {
-    text-align: center;
-    font-family: "Open Sans", Helvetica, sans-serif;
-}
 h1 {
     color: coral;
 }
 
 h3 {
     color: limegreen;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px;
+}
+
+.headers {
+    text-align: center;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.img_right {
+    height: 150px;
+    float: right;
+}
+ 
+.img_left {
+    height: 150px;
+    float: left;
 }
 
 #first {
@@ -32,26 +48,6 @@ h3 {
 #third {
     margin: auto;
     width: 50%;
-}
-
-iframe {
-    border: 5px;
-    border-color: lightskyblue
-}
-
-.img_right {
-    height: 150px;
-    float: right;
-}
- 
-.img_left {
-    height: 150px;
-    float: left;
-}
-
-p {
-    font-size: 18px;
-    margin: 10px;
 }
 
 
